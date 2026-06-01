@@ -1,5 +1,5 @@
-# 💫 About Me:
-#👋 Hi, I'm Edin Kamberi<br>🎓 Second-year Computer Science student at UBT, Prishtina.<br><br>👨‍💻 Interested in Software Engineering, Data, Artificial Intelligence, and Machine Learning.<br><br>🧠 Passionate about algorithms, problem-solving, and building practical software projects.<br><br>🚀 Continuously learning and improving through hands-on development and real-world experience.
+# 💫 👋 Hi, I'm Edin Kamberi
+🎓 Second-year Computer Science student at UBT, Prishtina.<br><br>👨‍💻 Interested in Software Engineering, Data, Artificial Intelligence, and Machine Learning.<br><br>🧠 Passionate about algorithms, problem-solving, and building practical software projects.<br><br>🚀 Continuously learning and improving through hands-on development and real-world experience.
 
 
 ## 🌐 Socials:
